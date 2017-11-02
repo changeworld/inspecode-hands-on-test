@@ -8,3 +8,4 @@ inspecode:
       num-issues: 0
   misspell: default
   golint: default
+
